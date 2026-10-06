@@ -1,0 +1,3 @@
+model,Cloud,Edge,Mobile,TinyML
+logistic_regression,yes,yes,yes,yes
+random_forest,yes,yes,no (latency),"no (memory, latency, size)"
